@@ -1,5 +1,5 @@
 # git-internship
-internship og git and github
+internship on git and github
 
 #example
 vcs
